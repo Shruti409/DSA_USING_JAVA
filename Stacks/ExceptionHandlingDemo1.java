@@ -1,6 +1,6 @@
 package ExceptionHandling;
 
-public class ExceptionDemo {
+public class ExceptionHandlingDemo1 {
 
 	public static void assistant(int lines)
 	{
